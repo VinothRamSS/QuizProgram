@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QuizProgram</string>
+    <string name="guess_the_pok_emon">Guess The Pok`emon</string>
+    <string name="name">Name</string>
 </resources>
